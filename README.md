@@ -36,5 +36,5 @@ To reproduce the results of the sufficiently-bilinear experiment run:
 - You can also decrease the number of seeds with the option: `--num-seeds [5]` (using only 1 seed will reduce the amount of time it takes to complete by 5)
 - You can also choose evaluate the different methods separately with the option: `-m [MODE]` where `[MODE]` can be (`"shgd-constant"`, `"shgd-decreasing"`, `"shgd-biased`, `"svrh"`, `"svrh-restart`, `"svre"`)
 
-**To replicate the GAN experiments**
+## To replicate the GAN experiments**
   * Run the jupyter notebook notebok/GAN.ipynb (This can be done by uploading GAN.ipynb to google Colab or making a copy of the read-only version here: https://colab.research.google.com/drive/16zh-Ma-vayaoHP6NhuWr6uJjoabDMsVb?usp=sharing)
